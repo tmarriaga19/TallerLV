@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerLV</string>
+    <string name="opciones">OPTIONS</string>
+    <string name="areas">AREAS</string>
+    <string name="volumenes">VOLUMES</string>
+    <string name="cuadrado">SQUARE</string>
+    <string name="valor_del_lado">Value of the side</string>
+    <string name="calcular">Calculate</string>
+    <string name="borrar">Delete</string>
+    <string name="rectangulo">RECTANGLE</string>
+    <string name="valor_lado_a">Value side A</string>
+    <string name="valor_lado_b">Value side B</string>
+    <string name="triangulo">TRIANGLE</string>
+    <string name="base">Base</string>
+    <string name="altura">Height</string>
+    <string name="circulo">CIRCLE</string>
+    <string name="diametro">Diameter</string>
+    <string name="esfera">SPHERE</string>
+    <string name="cilindro">CYLINDER</string>
+    <string name="valor_de_radio">Radio Value</string>
+    <string name="valor_de_altura">Height value</string>
+    <string name="cono">CONE</string>
+    <string name="valor_de_distancia">Distance value</string>
+    <string name="cubo">CUBE</string>
+    <string name="valor_de_area_de_un_lado">Area value on one side</string>
+    <string name="operaciones_realizadas">OPERATIONS PERFORMED</string>
+    <string name="no">No</string>
+    <string name="peracion">Operation</string>
+    <string name="datos">Data</string>
+    <string name="operacion">Operation</string>
+    <string name="resultado">Result</string>
+    <string name="mensaje_de_error_uno">Please complete this field</string>
+    <string name="operacion_registrada">Operation registered successfully</string>
+    <string name="area_del_cuadrado">Square area</string>
+    <string name="area_del_rectangulo">Rectangle area</string>
+    <string name="area_del_triangulo">Triangle area</string>
+    <string name="area_del_circulo">Circle area</string>
+    <string name="area_de_la_esfera">Ball area</string>
+    <string name="area_del_cilindro">Cylinder area</string>
+    <string name="area_del_cono">Cone area</string>
+    <string name="area_del_cubo">Cube area</string>
+</resources>
