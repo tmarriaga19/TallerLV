@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TallerLV</string>
+    <string name="opciones">OPCIONES</string>
+    <string name="areas">AREAS</string>
+    <string name="volumenes">VOLUMENES</string>
+    <string name="cuadrado">CUADRADO</string>
+    <string name="valor_del_lado">Valor del lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="rectangulo">RECTANGULO</string>
+    <string name="valor_lado_a">Valor lado A</string>
+    <string name="valor_lado_b">Valor lado B</string>
+    <string name="triangulo">TRIANGULO</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="circulo">CIRCULO</string>
+    <string name="diametro">Diametro</string>
 </resources>
