@@ -15,4 +15,12 @@
     <string name="altura">Altura</string>
     <string name="circulo">CIRCULO</string>
     <string name="diametro">Diametro</string>
+    <string name="esfera">ESFERA</string>
+    <string name="cilindro">CILINDRO</string>
+    <string name="valor_de_radio">Valor de radio</string>
+    <string name="valor_de_altura" >Valor de altura</string>
+    <string name="cono">CONO</string>
+    <string name="valor_de_distancia">Valor de distancia</string>
+    <string name="cubo">CUBO</string>
+    <string name="valor_de_area_de_un_lado">Valor de area de un lado</string>
 </resources>
