@@ -35,6 +35,10 @@
     <string name="area_del_rectangulo">Area del rectangulo</string>
     <string name="area_del_triangulo">Area del triangulo</string>
     <string name="area_del_circulo">Area del circulo</string>
+    <string name="area_de_la_esfera">Area de la esfera</string>
+    <string name="area_del_cilindro">Area del cilindro</string>
+    <string name="area_del_cono">Area del cono</string>
+    <string name="area_del_cubo">Area del cubo</string>
 
     <array name="Opciones">
         <item>@string/areas</item>
